@@ -1,0 +1,74 @@
+[
+    {
+        "pergunta": "Qual é o dia do próximo pagamento?",
+        "resposta": "O pagamento ocorre no dia 5 de cada mês."
+    },
+    {
+        "pergunta": "Quantos dependentes posso cadastrar?",
+        "resposta": "Você pode cadastrar até 3 dependentes."
+    },
+    {
+        "pergunta": "Qual é o horário de funcionamento da empresa?",
+        "resposta": "Funcionamos de segunda a sexta, das 8h às 18h."
+    },
+    {
+        "pergunta": "Como posso solicitar férias?",
+        "resposta": "Você deve solicitar férias com pelo menos 30 dias de antecedência pelo sistema interno da empresa."
+    },
+    {
+        "pergunta": "Como funciona o plano de saúde da empresa?",
+        "resposta": "Oferecemos um plano de saúde empresarial com cobertura nacional. Para mais detalhes, consulte o RH."
+    },
+    {
+        "pergunta": "A empresa oferece vale-alimentação?",
+        "resposta": "Sim, todos os funcionários recebem vale-alimentação mensalmente, conforme a política da empresa."
+    },
+    {
+        "pergunta": "Como recuperar minha senha do e-mail corporativo?",
+        "resposta": "Você pode redefinir sua senha acessando o portal de TI ou entrando em contato com o suporte."
+    },
+    {
+        "pergunta": "Qual é a política de home office?",
+        "resposta": "O home office está disponível para determinados cargos e deve ser aprovado pelo gestor."
+    },
+    {
+        "pergunta": "Como faço para solicitar reembolso de despesas?",
+        "resposta": "Você deve preencher um formulário de reembolso no sistema interno e anexar os comprovantes."
+    },
+    {
+        "pergunta": "A empresa oferece treinamentos?",
+        "resposta": "Sim, temos uma plataforma de treinamentos online e também realizamos workshops presenciais."
+    },
+    {
+        "pergunta": "Quem posso contatar em caso de problemas com meu salário?",
+        "resposta": "Entre em contato com o setor financeiro pelo e-mail financeiro@empresa.com."
+    },
+    {
+        "pergunta": "Posso trocar meu turno de trabalho?",
+        "resposta": "A troca de turno deve ser discutida com seu supervisor e aprovada pelo RH."
+    },
+    {
+        "pergunta": "Como faço para solicitar um novo crachá?",
+        "resposta": "Solicite um novo crachá no setor de segurança ou pelo sistema interno."
+    },
+    {
+        "pergunta": "A empresa oferece participação nos lucros?",
+        "resposta": "Sim, a empresa possui um programa de participação nos lucros para funcionários elegíveis."
+    },
+    {
+        "pergunta": "Quais são os feriados em que a empresa não funciona?",
+        "resposta": "A empresa não funciona nos feriados nacionais e nos feriados estaduais do nosso local de operação."
+    },
+    {
+        "pergunta": "Onde posso ver minhas metas e desempenho?",
+        "resposta": "Você pode visualizar suas metas e desempenho no portal interno da empresa."
+    },
+    {
+        "pergunta": "Como posso entrar em contato com o suporte de TI?",
+        "resposta": "O suporte de TI pode ser contatado pelo e-mail suporte@empresa.com ou pelo telefone (XX) XXXX-XXXX."
+    },
+    {
+        "pergunta": "Existe algum benefício para transporte?",
+        "resposta": "Sim, oferecemos vale-transporte para funcionários que solicitarem no RH."
+    }
+]
